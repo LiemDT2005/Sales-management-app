@@ -1,0 +1,268 @@
+<Window x:Class="SMA.Views.Admin.UserProfileView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:converters="clr-namespace:SMA.Converters"
+        Title="User Profile" 
+        Height="700" 
+        Width="600" 
+        Background="#F3F4F6"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+        
+        <Style x:Key="LabelStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="13"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="Foreground" Value="#374151"/>
+            <Setter Property="Margin" Value="0,0,0,6"/>
+        </Style>
+
+        <Style x:Key="TextBoxStyle" TargetType="TextBox">
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Padding" Value="12,8"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#D1D5DB"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+
+        <Style x:Key="ComboBoxStyle" TargetType="ComboBox">
+            <Setter Property="Height" Value="40"/>
+            <Setter Property="Padding" Value="12,8"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="#D1D5DB"/>
+            <Setter Property="BorderThickness" Value="1"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <!-- Loading Overlay -->
+        <Border Background="#80000000" 
+                Visibility="{Binding IsLoading, Converter={StaticResource BoolToVisibilityConverter}}"
+                Panel.ZIndex="999">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="?" FontSize="48" Foreground="White"/>
+                <TextBlock Text="Processing..." Foreground="White" FontSize="16" Margin="0,16,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Main ScrollViewer -->
+        <ScrollViewer VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Disabled">
+            <Border Background="White" 
+                    CornerRadius="16" 
+                    MaxWidth="550" 
+                    Padding="32"
+                    Margin="24"
+                    HorizontalAlignment="Center">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="20" ShadowDepth="0" Opacity="0.1"/>
+                </Border.Effect>
+
+                <StackPanel>
+                    <!-- Header -->
+                    <StackPanel Orientation="Horizontal" Margin="0,0,0,24">
+                        <Border Width="60" Height="60" 
+                                Background="#3B82F6" 
+                                CornerRadius="30">
+                            <TextBlock Text="&#xE77B;" 
+                                       FontFamily="Segoe MDL2 Assets"
+                                       FontSize="28" 
+                                       Foreground="White"
+                                       HorizontalAlignment="Center"
+                                       VerticalAlignment="Center"/>
+                        </Border>
+                        <StackPanel Margin="16,0,0,0" VerticalAlignment="Center">
+                            <TextBlock Text="User Profile" 
+                                       FontSize="24" 
+                                       FontWeight="Bold"
+                                       Foreground="#1F2937"/>
+                            <TextBlock Text="{Binding User.UserId}" 
+                                       FontSize="13"
+                                       Foreground="#6B7280"
+                                       Margin="0,4,0,0"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <!-- Form Fields - 2 Columns -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="16"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <!-- Row 1: User ID & Username -->
+                        <StackPanel Grid.Row="0" Grid.Column="0" Margin="0,0,0,16">
+                            <TextBlock Text="User ID" Style="{StaticResource LabelStyle}"/>
+                            <TextBox Text="{Binding User.UserId}" 
+                                     Style="{StaticResource TextBoxStyle}"
+                                     IsReadOnly="True"
+                                     Background="#F9FAFB"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="0" Grid.Column="2" Margin="0,0,0,16">
+                            <TextBlock Text="Username" Style="{StaticResource LabelStyle}"/>
+                            <TextBox Text="{Binding User.UserName, UpdateSourceTrigger=PropertyChanged}" 
+                                     Style="{StaticResource TextBoxStyle}"/>
+                        </StackPanel>
+
+                        <!-- Row 2: Email & Phone -->
+                        <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,0,0,16">
+                            <TextBlock Text="Email" Style="{StaticResource LabelStyle}"/>
+                            <TextBox Text="{Binding User.Email, UpdateSourceTrigger=PropertyChanged}" 
+                                     Style="{StaticResource TextBoxStyle}"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="1" Grid.Column="2" Margin="0,0,0,16">
+                            <TextBlock Text="Phone" Style="{StaticResource LabelStyle}"/>
+                            <TextBox Text="{Binding User.Phone, UpdateSourceTrigger=PropertyChanged}" 
+                                     Style="{StaticResource TextBoxStyle}"/>
+                        </StackPanel>
+
+                        <!-- Row 3: Gender & Role -->
+                        <StackPanel Grid.Row="2" Grid.Column="0" Margin="0,0,0,16">
+                            <TextBlock Text="Gender" Style="{StaticResource LabelStyle}"/>
+                            <ComboBox SelectedValue="{Binding User.Gender, UpdateSourceTrigger=PropertyChanged}"
+                                      SelectedValuePath="Content"
+                                      Style="{StaticResource ComboBoxStyle}">
+                                <ComboBoxItem Content="Male"/>
+                                <ComboBoxItem Content="Female"/>
+                            </ComboBox>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="2" Grid.Column="2" Margin="0,0,0,16">
+                            <TextBlock Text="Role" Style="{StaticResource LabelStyle}"/>
+                            <ComboBox SelectedValue="{Binding User.Role, UpdateSourceTrigger=PropertyChanged}"
+                                      SelectedValuePath="Content"
+                                      Style="{StaticResource ComboBoxStyle}">
+                                <ComboBoxItem Content="Admin"/>
+                                <ComboBoxItem Content="Staff"/>
+                            </ComboBox>
+                        </StackPanel>
+
+                        <!-- Row 4: Citizen ID & Status -->
+                        <StackPanel Grid.Row="3" Grid.Column="0" Margin="0,0,0,16">
+                            <TextBlock Text="Citizen ID" Style="{StaticResource LabelStyle}"/>
+                            <TextBox Text="{Binding User.CitizenId, UpdateSourceTrigger=PropertyChanged}" 
+                                     Style="{StaticResource TextBoxStyle}"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="3" Grid.Column="2" Margin="0,0,0,16">
+                            <TextBlock Text="Status" Style="{StaticResource LabelStyle}"/>
+                            <ComboBox SelectedValue="{Binding User.Status, UpdateSourceTrigger=PropertyChanged}"
+                                      SelectedValuePath="Content"
+                                      Style="{StaticResource ComboBoxStyle}">
+                                <ComboBoxItem Content="Active"/>
+                                <ComboBoxItem Content="Banned"/>
+                            </ComboBox>
+                        </StackPanel>
+
+                        <!-- Row 5: Address (Full Width) -->
+                        <StackPanel Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Margin="0,0,0,24">
+                            <TextBlock Text="Address" Style="{StaticResource LabelStyle}"/>
+                            <TextBox Text="{Binding User.Address, UpdateSourceTrigger=PropertyChanged}" 
+                                     Height="60"
+                                     TextWrapping="Wrap"
+                                     AcceptsReturn="True"
+                                     VerticalScrollBarVisibility="Auto"
+                                     Padding="12,8"
+                                     FontSize="14"
+                                     Background="White"
+                                     BorderBrush="#D1D5DB"
+                                     BorderThickness="1"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Action Buttons -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="12"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="12"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <!-- Edit Button -->
+                        <Button Grid.Column="0"
+                                Content="Save Changes"
+                                Height="44"
+                                Background="#3B82F6"
+                                Foreground="White"
+                                FontSize="14"
+                                FontWeight="SemiBold"
+                                BorderThickness="0"
+                                Cursor="Hand"
+                                Command="{Binding SaveCommand}"
+                                CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}" CornerRadius="6">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <!-- Delete Button -->
+                        <Button Grid.Column="2"
+                                Content="Delete User"
+                                Height="44"
+                                Background="#EF4444"
+                                Foreground="White"
+                                FontSize="14"
+                                FontWeight="SemiBold"
+                                BorderThickness="0"
+                                Cursor="Hand"
+                                Command="{Binding DeleteCommand}"
+                                CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}" CornerRadius="6">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <!-- Cancel Button -->
+                        <Button Grid.Column="4"
+                                Content="Cancel"
+                                Height="44"
+                                Background="White"
+                                Foreground="#374151"
+                                FontSize="14"
+                                FontWeight="SemiBold"
+                                BorderBrush="#D1D5DB"
+                                BorderThickness="1"
+                                Cursor="Hand"
+                                Command="{Binding CancelCommand}"
+                                CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}" 
+                                            BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}"
+                                            CornerRadius="6">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+                    </Grid>
+                </StackPanel>
+            </Border>
+        </ScrollViewer>
+    </Grid>
+</Window>

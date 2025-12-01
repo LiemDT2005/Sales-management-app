@@ -1,0 +1,266 @@
+<Window x:Class="SMA.Views.Admin.AddUserView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:converters="clr-namespace:SMA.Converters"
+        xmlns:helper="clr-namespace:SMA.Helper"
+        Title="Add New User" 
+        Height="650" 
+        Width="900" 
+        Background="#F3F4F6"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <converters:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter"/>
+        <converters:InverseBoolToVisibilityConverter x:Key="InverseBoolToVisibilityConverter"/>
+        <converters:StringToVisibilityConverter x:Key="StringToVisibilityConverter"/>
+    </Window.Resources>
+
+    <Grid>
+        <!-- Loading Overlay -->
+        <Border Background="#80000000" 
+                Visibility="{Binding IsLoading, Converter={StaticResource BoolToVisibilityConverter}}"
+                Panel.ZIndex="999">
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="?" FontSize="48" Foreground="White"/>
+                <TextBlock Text="Creating user..." Foreground="White" FontSize="16" Margin="0,16,0,0"/>
+            </StackPanel>
+        </Border>
+
+        <!-- Main ScrollViewer -->
+        <ScrollViewer VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Disabled">
+            <Border Background="White" 
+                    CornerRadius="16" 
+                    MaxWidth="850" 
+                    Padding="40"
+                    Margin="24"
+                    HorizontalAlignment="Center">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="20" ShadowDepth="0" Opacity="0.1"/>
+                </Border.Effect>
+
+                <StackPanel>
+                    <!-- Header -->
+                    <StackPanel Margin="0,0,0,32" HorizontalAlignment="Left">
+                        <StackPanel Orientation="Horizontal">
+                            <Border Width="60" Height="60" 
+                                    Background="#10B981" 
+                                    CornerRadius="30">
+                                <TextBlock Text="&#xE710;" 
+                                           FontFamily="Segoe MDL2 Assets"
+                                           FontSize="28" 
+                                           Foreground="White"
+                                           HorizontalAlignment="Center"
+                                           VerticalAlignment="Center"/>
+                            </Border>
+                            <StackPanel Margin="16,0,0,0" VerticalAlignment="Center">
+                                <TextBlock Text="Create New User" 
+                                           FontSize="28" 
+                                           FontWeight="Bold"
+                                           Foreground="#1F2937"/>
+                                <TextBlock Text="Fill in the information below to add a new user" 
+                                           FontSize="14"
+                                           Foreground="#6B7280"
+                                           Margin="0,4,0,0"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <!-- Error Message -->
+                    <Border Background="#FEE2E2"
+                            BorderBrush="#EF4444"
+                            BorderThickness="1"
+                            CornerRadius="8"
+                            Padding="12"
+                            Margin="0,0,0,24"
+                            Visibility="{Binding ErrorMessage, Converter={StaticResource StringToVisibilityConverter}}">
+                        <TextBlock Text="{Binding ErrorMessage}"
+                                   Foreground="#DC2626"
+                                   FontSize="13"
+                                   TextWrapping="Wrap"/>
+                    </Border>
+
+                    <!-- Form Fields - 2 Columns Wide -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="24"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <!-- Row 1: Auto UserID & Username -->
+                        <StackPanel Grid.Row="0" Grid.Column="0" Margin="0,0,0,20">
+                            <TextBlock Text="User ID (Auto-generated)" FontSize="13" FontWeight="SemiBold" Foreground="#6B7280" Margin="0,0,0,6"/>
+                            <Border Background="#F9FAFB" BorderBrush="#D1D5DB" BorderThickness="1" CornerRadius="8" Height="44" Padding="12,8">
+                                <TextBlock Text="{Binding AutoGeneratedUserId}" FontSize="14" Foreground="#9CA3AF" VerticalAlignment="Center"/>
+                            </Border>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="0" Grid.Column="2" Margin="0,0,0,20">
+                            <TextBlock Text="Username *" FontSize="13" FontWeight="SemiBold" Foreground="#374151" Margin="0,0,0,6"/>
+                            <TextBox Text="{Binding UserName, UpdateSourceTrigger=PropertyChanged}" 
+                                     Height="44" Padding="12,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1"/>
+                        </StackPanel>
+
+                        <!-- Row 2: Email & Phone -->
+                        <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,0,0,20">
+                            <TextBlock Text="Email *" FontSize="13" FontWeight="SemiBold" Foreground="#374151" Margin="0,0,0,6"/>
+                            <TextBox Text="{Binding Email, UpdateSourceTrigger=PropertyChanged}" 
+                                     Height="44" Padding="12,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="1" Grid.Column="2" Margin="0,0,0,20">
+                            <TextBlock Text="Phone" FontSize="13" FontWeight="SemiBold" Foreground="#374151" Margin="0,0,0,6"/>
+                            <TextBox Text="{Binding Phone, UpdateSourceTrigger=PropertyChanged}" 
+                                     Height="44" Padding="12,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1"/>
+                        </StackPanel>
+
+                        <!-- Row 3: Password & Confirm Password -->
+                        <StackPanel Grid.Row="2" Grid.Column="0" Margin="0,0,0,20">
+                            <TextBlock Text="Password *" FontSize="13" FontWeight="SemiBold" Foreground="#374151" Margin="0,0,0,6"/>
+                            <Grid>
+                                <PasswordBox x:Name="PasswordBox"
+                                             helper:PasswordBoxHelper.BindPassword="True"
+                                             helper:PasswordBoxHelper.BoundPassword="{Binding Password, Mode=TwoWay}"
+                                             Height="44" Padding="12,8,50,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1"
+                                             Visibility="{Binding IsPasswordVisible, Converter={StaticResource InverseBoolToVisibilityConverter}}"/>
+                                <TextBox Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}"
+                                         Height="44" Padding="12,8,50,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1"
+                                         Visibility="{Binding IsPasswordVisible, Converter={StaticResource BoolToVisibilityConverter}}"/>
+                                <Button HorizontalAlignment="Right" Width="40" Height="40"
+                                        Background="Transparent" BorderThickness="0" Cursor="Hand"
+                                        Command="{Binding TogglePasswordVisibilityCommand}">
+                                    <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="16" Foreground="#6B7280">
+                                        <TextBlock.Style>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Text" Value="&#xE7B3;"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding IsPasswordVisible}" Value="True">
+                                                        <Setter Property="Text" Value="&#xED1A;"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </TextBlock.Style>
+                                    </TextBlock>
+                                </Button>
+                            </Grid>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="2" Grid.Column="2" Margin="0,0,0,20">
+                            <TextBlock Text="Confirm Password *" FontSize="13" FontWeight="SemiBold" Foreground="#374151" Margin="0,0,0,6"/>
+                            <Grid>
+                                <PasswordBox x:Name="ConfirmPasswordBox"
+                                             helper:PasswordBoxHelper.BindPassword="True"
+                                             helper:PasswordBoxHelper.BoundPassword="{Binding ConfirmPassword, Mode=TwoWay}"
+                                             Height="44" Padding="12,8,50,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1"
+                                             Visibility="{Binding IsConfirmPasswordVisible, Converter={StaticResource InverseBoolToVisibilityConverter}}"/>
+                                <TextBox Text="{Binding ConfirmPassword, UpdateSourceTrigger=PropertyChanged}"
+                                         Height="44" Padding="12,8,50,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1"
+                                         Visibility="{Binding IsConfirmPasswordVisible, Converter={StaticResource BoolToVisibilityConverter}}"/>
+                                <Button HorizontalAlignment="Right" Width="40" Height="40"
+                                        Background="Transparent" BorderThickness="0" Cursor="Hand"
+                                        Command="{Binding ToggleConfirmPasswordVisibilityCommand}">
+                                    <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="16" Foreground="#6B7280">
+                                        <TextBlock.Style>
+                                            <Style TargetType="TextBlock">
+                                                <Setter Property="Text" Value="&#xE7B3;"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding IsConfirmPasswordVisible}" Value="True">
+                                                        <Setter Property="Text" Value="&#xED1A;"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </TextBlock.Style>
+                                    </TextBlock>
+                                </Button>
+                            </Grid>
+                        </StackPanel>
+
+                        <!-- Row 4: Gender, Role & Citizen ID -->
+                        <StackPanel Grid.Row="3" Grid.Column="0" Margin="0,0,0,20">
+                            <TextBlock Text="Role * (Determines ID prefix: A=Admin, S=Staff)" FontSize="13" FontWeight="SemiBold" Foreground="#374151" Margin="0,0,0,6"/>
+                            <ComboBox SelectedIndex="{Binding SelectedRoleIndex, UpdateSourceTrigger=PropertyChanged}"
+                                      Height="44" Padding="12,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1">
+                                <ComboBoxItem Content="Admin"/>
+                                <ComboBoxItem Content="Staff"/>
+                            </ComboBox>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="3" Grid.Column="2" Margin="0,0,0,20">
+                            <TextBlock Text="Gender *" FontSize="13" FontWeight="SemiBold" Foreground="#374151" Margin="0,0,0,6"/>
+                            <ComboBox SelectedIndex="{Binding SelectedGenderIndex, UpdateSourceTrigger=PropertyChanged}"
+                                      Height="44" Padding="12,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1">
+                                <ComboBoxItem Content="Male"/>
+                                <ComboBoxItem Content="Female"/>
+                            </ComboBox>
+                        </StackPanel>
+
+                        <!-- Row 5: Citizen ID & Address (Full Width) -->
+                        <StackPanel Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Margin="0,0,0,20">
+                            <TextBlock Text="Citizen ID *" FontSize="13" FontWeight="SemiBold" Foreground="#374151" Margin="0,0,0,6"/>
+                            <TextBox Text="{Binding CitizenId, UpdateSourceTrigger=PropertyChanged}" 
+                                     Height="44" Padding="12,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1"/>
+                        </StackPanel>
+                    </Grid>
+
+                    <!-- Address (Full Width) -->
+                    <StackPanel Margin="0,0,0,32">
+                        <TextBlock Text="Address" FontSize="13" FontWeight="SemiBold" Foreground="#374151" Margin="0,0,0,6"/>
+                        <TextBox Text="{Binding Address, UpdateSourceTrigger=PropertyChanged}" 
+                                 Height="80" TextWrapping="Wrap" AcceptsReturn="True"
+                                 VerticalScrollBarVisibility="Auto" Padding="12,8" FontSize="14" BorderBrush="#D1D5DB" BorderThickness="1"/>
+                    </StackPanel>
+
+                    <!-- Action Buttons -->
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="16"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Button Grid.Column="0"
+                                Content="Create User"
+                                Height="48" Background="#10B981" Foreground="White"
+                                FontSize="15" FontWeight="SemiBold" BorderThickness="0" Cursor="Hand"
+                                Command="{Binding CreateUserCommand}"
+                                CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}" CornerRadius="8">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <Button Grid.Column="2"
+                                Content="Cancel"
+                                Height="48" Background="White" Foreground="#374151"
+                                FontSize="15" FontWeight="SemiBold" BorderBrush="#D1D5DB" BorderThickness="1" Cursor="Hand"
+                                Command="{Binding CancelCommand}"
+                                CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=Window}}">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}"
+                                            BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="8">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+                    </Grid>
+                </StackPanel>
+            </Border>
+        </ScrollViewer>
+    </Grid>
+</Window>
+

@@ -1,0 +1,394 @@
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Assets\Products\BapCai.jpg
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Assets\Products\Cam.jpg
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Assets\Products\RauLan.jpg
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Assets\Products\RauMuong.jpg
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Assets\Products\ThanhLong.jpg
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\SMA.exe
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\SMA.deps.json
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\SMA.runtimeconfig.json
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\SMA.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\SMA.pdb
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Humanizer.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\PdfSharp.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.csproj.AssemblyReference.cache
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\AddUserView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\AdminWindow.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\ProductView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\StockWarningWindow.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\UserManagementView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\UserProfileView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Auth\ChangePasswordView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Auth\ForgotPasswordView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Auth\Login.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Auth\ResetPasswordView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Orders\CreateOrderView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Orders\OrderDetailView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Orders\OrderList.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Staff\CustomerManagementView.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\App.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA_MarkupCompile.cache
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA_MarkupCompile.lref
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\MainWindow.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\AddUserView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\AdminWindow.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\ProductView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\StockWarningWindow.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\UserManagementView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Admin\UserProfileView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Auth\ChangePasswordView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Auth\ForgotPasswordView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Auth\Login.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Auth\ResetPasswordView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Orders\CreateOrderView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Orders\OrderDetailView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Orders\OrderList.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\Views\Staff\CustomerManagementView.baml
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.g.resources
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.AssemblyInfoInputs.cache
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.AssemblyInfo.cs
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.csproj.CoreCompileInputs.cache
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.sourcelink.json
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.csproj.Up2Date
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\refint\SMA.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.pdb
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\SMA.genruntimeconfig.cache
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\obj\Debug\net8.0-windows\ref\SMA.dll
+D:\FPT\Semester 5\PRN212\Final Project\SMA_FinalProject_G3_PRN212\SMA\bin\Debug\net8.0-windows\appsettings.json
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Assets\Products\BapCai.jpg
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Assets\Products\Cam.jpg
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Assets\Products\RauLan.jpg
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Assets\Products\RauMuong.jpg
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Assets\Products\ThanhLong.jpg
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\SMA.exe
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\appsettings.json
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\SMA.deps.json
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\SMA.runtimeconfig.json
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\SMA.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\SMA.pdb
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\PdfSharp.Charting.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\PdfSharp.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\de\PdfSharp.Charting.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\de\PdfSharp.resources.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Project\SMA\Sales-management-app\SMA\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.csproj.AssemblyReference.cache
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\AddUserView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\AdminWindow.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\ProductView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\StockWarningWindow.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\UserManagementView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\UserProfileView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Auth\ChangePasswordView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Auth\ForgotPasswordView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Auth\Login.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Auth\ResetPasswordView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Orders\CreateOrderView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Orders\OrderDetailView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Orders\OrderList.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Staff\CustomerManagementView.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\App.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA_MarkupCompile.cache
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA_MarkupCompile.lref
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\AddUserView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\AdminWindow.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\ProductView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\StockWarningWindow.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\UserManagementView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Admin\UserProfileView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Auth\ChangePasswordView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Auth\ForgotPasswordView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Auth\Login.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Auth\ResetPasswordView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Orders\CreateOrderView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Orders\OrderDetailView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Orders\OrderList.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\Views\Staff\CustomerManagementView.baml
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.g.resources
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.AssemblyInfoInputs.cache
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.AssemblyInfo.cs
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.csproj.CoreCompileInputs.cache
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.sourcelink.json
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.csproj.Up2Date
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.dll
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\refint\SMA.dll
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.pdb
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\SMA.genruntimeconfig.cache
+D:\Project\SMA\Sales-management-app\SMA\obj\Debug\net8.0-windows\ref\SMA.dll
